@@ -13,3 +13,5 @@
   npm install
   npm run dev
 ```
+## 产品形态
+分[开源版本](https://github.com/caidukai/brain-reply)和[高级版本](https://brainreply.com/)，随着功能的增多，会多多移植入开源版本
